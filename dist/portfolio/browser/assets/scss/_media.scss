@@ -1,0 +1,17 @@
+
+@media screen and (max-width: 650px) {
+    .content {
+      flex-direction: column;
+      width: max-content;
+    }
+    .main{
+      padding: 0;
+    }
+    .divider {
+      height: 1px;
+      width: 100%;
+      background: var(--red-to-pink-to-purple-horizontal-gradient);
+      margin: 1.5rem 0;
+    }
+    
+  }
